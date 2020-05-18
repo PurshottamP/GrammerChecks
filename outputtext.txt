@@ -1,0 +1,7 @@
+A CSV file (Comma Separated Values File) is commonly used by spreadsheet programs such as Microsoft Excel or OpenOffice Calc.|20|42.72
+If you nees to test download of a file which contains plain text data sets separated by commas (database) just ddownload this file.|23|65.05
+A JSON file (JavaScript Object Notation) is standard interchange format, uses human-readable text.|14|41.36
+Mostly used for exchanging data between web or mobile application and API server.|13|41.36
+An HTML file (Hypertext Markup Language File) is a webpage coded in HTML that can be displayed in a web browser.|21|75.54
+It can be used to format text, tables, images etc.|10|86.71
+to be displayed on a webpage.If you need any HTML dummy file – just download this one for free.|20|86.03
